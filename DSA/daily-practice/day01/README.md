@@ -1,4 +1,4 @@
-# Day 01 - 4th June 2025
+# Day 01
 
 ## 🧠 Concept:
 **`for i` loop** is used for changing the line (row-wise control)  
