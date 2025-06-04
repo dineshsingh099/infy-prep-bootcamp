@@ -2,7 +2,7 @@
 
 ## 🧠 Concept:
 **`for i` loop** is used for changing the line (row-wise control)  
-**`for j` loop** is used to print values in each line (column-wise content) ✅
+**`for j` loop** is used to print values in each line (column-wise content) 
 
 
 ## ✅ Problems Solved
